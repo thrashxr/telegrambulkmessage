@@ -1,6 +1,6 @@
 # Telegram Toplu Mesaj Gönderici Bot
 
-Uzun zamandır üzerinde çalıştığım ve paylaşıp paylaşmamak arasında kararsız kaldığım toplu mesaj gönderme botumu sonunda paylaşıyorum! Sunucunuza veya bilgisayarınıza kurup hemen kullanmaya başlayabilirsiniz :)
+Toplu mesaj gönderme botumu sonunda paylaşıyorum. Sunucunuza veya bilgisayarınıza kurup hemen kullanmaya başlayabilirsiniz :)
 
 Bu bot sayesinde kendi telegram hesaplarınız üzerinden gruplara otomatik mesajlar gönderebilirsiniz. Hem de spam/flood limitlerine takılmamak için gerekli önlemler alınmış durumda!
 
@@ -8,7 +8,7 @@ Bu bot sayesinde kendi telegram hesaplarınız üzerinden gruplara otomatik mesa
 
 Botta mevcut özellikler sırası ile;
 
--  ** Çoklu Hesap Yönetimi:** Birden fazla hesap ekleyebilir, bu hesaplar arasında geçiş yapabilir ve oturumları (session) kaydedebilirsiniz. Yani botu kapatıp açsanız bile tekrar tekrar giriş yapmanıza gerek kalmaz.
+-  **Çoklu Hesap Yönetimi:** Birden fazla hesap ekleyebilir, bu hesaplar arasında geçiş yapabilir ve oturumları (session) kaydedebilirsiniz. Yani botu kapatıp açsanız bile tekrar tekrar giriş yapmanıza gerek kalmaz.
 -  **Grup Yönetimi:** Hesabınızdaki grupları otomatik olarak çeker, listeler ve dilerseniz yeni gruplara link ile katılmanızı sağlar.
 -  **Toplu Mesaj Gönderimi:**
    -  **Tek Seferlik:** Seçtiğiniz gruplara mesajınızı bir kez gönderir.
