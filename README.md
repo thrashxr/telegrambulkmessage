@@ -24,7 +24,7 @@ Kurulum oldukça basit, aşağıdaki adımları takip etmeniz yeterli:
 2. Proje dosyalarını indirin ve terminali açın.
 3. Gerekli kütüphaneleri yükleyin:
    ```bash
-   pip install telethon python-dotenv
+   pip install telethon python-dotenv rich
    ```
 4. `.env.example` dosyasının adını `.env` olarak değiştirin ve içine girin.
 5. `API_ID` ve `API_HASH` bilgilerinizi ekleyin. (Bu bilgileri [my.telegram.org](https://my.telegram.org) adresinden alabilirsiniz).
