@@ -14,7 +14,7 @@ Botta mevcut özellikler sırası ile;
    -  **Tek Seferlik:** Seçtiğiniz gruplara mesajınızı bir kez gönderir.
    -  **Döngü Modu (Loop):** Mesajınızı belirlediğiniz aralıklarla sürekli gönderir.
    -  **Resimli Mesaj:** İsterseniz mesajlarınıza resim de ekleyebilirsiniz.
--  ** Ayarlanabilir Gecikmeler:** Spam'e düşmemek için grup arası ve döngü arası bekleme sürelerini (delay) kendiniz ayarlayabilirsiniz.
+-  **Ayarlanabilir Gecikmeler:** Spam'e düşmemek için grup arası ve döngü arası bekleme sürelerini (delay) kendiniz ayarlayabilirsiniz.
 
 ## Kurulum
 
